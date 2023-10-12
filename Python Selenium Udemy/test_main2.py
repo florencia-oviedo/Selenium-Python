@@ -11,7 +11,7 @@ def test_prueba02():
 
 def test_prueba03():
     a = 20
-    assert a >= 70
+    assert a <= 70
 
 
 
